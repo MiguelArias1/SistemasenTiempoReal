@@ -1,1 +1,2 @@
-# repositorio-Sistemas-en-tiempo-real
+# Sistemasentiemporeal
+Curso Sistemas en tiempo real UNAL
